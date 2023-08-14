@@ -2,6 +2,6 @@
     <title>Veggo Theme Simple</title>
     <parent>Magento/blank</parent>
     <media>
-        <preview_image>media/logo.png</preview_image>
+        <preview_image>media/preview.png</preview_image>
     </media>
 </theme>
